@@ -6,5 +6,5 @@ with open("reg_form.txt","a+") as f: # Python's built-in open() function makes a
         f.write(iD_num + "....................\n") # Use the write() method to write the iD_num variable's data to the 'reg_form.txt' file.
 
 """
-This program creates a text file called 'reg_form.txt' The txt file lists student identification numbers, adding dotted lines for the students to sign their names next to their ID numbers.
+This program creates a text file called 'reg_form.txt' The form lists student identification numbers, adding dotted lines for the students to sign their names next to their ID numbers.
 """
